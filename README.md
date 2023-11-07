@@ -1,6 +1,9 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z3OS8CM)
-# web_search [WIP]
- Web search extension for [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+
+Ko-Fi for the original extension author! Send him some love.
+
+# web_search [WIP] -- DuckDuckGo Version
+ Web search extension for [text-generation-webui](https://github.com/oobabooga/text-generation-webui). Modified to automatically be enabled, use DuckDuckGo as the search provider, and not override the current context.
 
  Thanks to [TheCyberViking](https://github.com/TheCyberViking) for the initial simple web search code. You can see it [here](https://github.com/oobabooga/text-generation-webui/discussions/932)
 
@@ -9,7 +12,7 @@
 | ![Screenshot from 2023-09-02 16-45-22](https://github.com/simbake/web_search/assets/6049383/36c52e5a-4146-444e-b254-ed7c48a0e946) |![Screenshot from 2023-09-02 16-43-01](https://github.com/simbake/web_search/assets/6049383/d09fa1f0-a1b1-4f45-adb3-9c9b1c517246) |
 
  
- This extension enables' a language model to receive google search data according to the users' input.[Currently supports google search only]
+ This extension enables' a language model to receive DuckDuckGo search data according to the users' input.[Currently supports DuckDuckGo search only]
 
 
  How to use
