@@ -1,1 +1,1 @@
-selenium==4.13.0
+duckduckgo_search==3.9.4
